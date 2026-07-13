@@ -45,7 +45,7 @@
 
 ---
 
-## Top Language
+## Top Languages:
 
 <div align="center">
 
